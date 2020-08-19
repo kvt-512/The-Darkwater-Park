@@ -15,6 +15,7 @@ I am very thankful to TWINE, as it supplies predefined game assets.
 * Twine game maker
 * VS Code
 * GitHub
+* WavePad audio editor
 
 #### How to download
 
