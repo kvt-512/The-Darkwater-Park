@@ -19,10 +19,10 @@ I am very thankful to TWINE, as it supplies predefined game assets.
 * GitHub
 * WavePad audio editor
 
-#### Play Online
+# Play Online
 https://thedarkwaterpark.s3.amazonaws.com/index.html
 
-#### How to download
+# How to download
 
 If you're a user of Git, you can clone the repo thought HTTP or SSH. Else, you can always download the ZIP file.
 
