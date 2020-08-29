@@ -23,6 +23,7 @@ I am very thankful to TWINE, as it supplies predefined game assets.
 https://thedarkwaterpark.s3.amazonaws.com/index.html
 
 Please note that the online version of this game runs on **AWS EC2** remote servers. If in case your network connection is down or any kind of interruption will have no effect on the game. Although you refresh the game in the middle of the gameplay, you can still continue playing the game form where you have stopped. But restarting your browser or opening the link in a new tab will erase your saved gameplay.
+
 If you want to play is from the beginning, you might have to open the same link in a **new tab** on your browser, else **restart the browser**.
 
 **Do not forget to enable background audio on your browser**
